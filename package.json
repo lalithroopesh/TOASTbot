@@ -1,0 +1,13 @@
+{
+	"name": "TOASTbot",
+	"version": "1.0.0",
+	"description": "trial 1",
+	"main": "bot.js",
+	"author": "toaster",
+	"dependencies": {
+		"-": "0.0.1",
+		"discord.js": "^12.2.0",
+		"save": "^2.4.0",
+		"winston": "^3.2.1"
+	}
+}
