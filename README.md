@@ -36,8 +36,6 @@ Note that command starting symbols "!" or "$" or "@" depends on what is put in t
 
 ## Documentation for bot2.js (incomplete)
 
-**__TOASTbot v2: The "Don't Spend 3 Years Editing Permissions" Update__**
-
 **Commands:**
 *No commands are currently open. All commands from v1 currently deprecated.*
 
