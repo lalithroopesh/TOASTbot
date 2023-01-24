@@ -3,7 +3,7 @@ A custom-made Discord server management bot to easily run science competitions v
 
 TOASTbot has two iterations, `bot.js` was mainly kept online for competitor use, managing both logistics and single-handedly managing the fast-paced Battle Tower round. `bot2.js` is a specialized version for complete server resets and overhauls. Note only one can be run at a time.
 
-Note that command starting symbols "!" or "$" or "@" depends on what is put in the config file with the authorization token.
+Note that command starting symbols "!" or "$" or "@" depends on what is put in the config file with the authorization token. This file runs using node.js and will require those modules installed.
 
 ## Documentation for bot.js
 **Commands:**
